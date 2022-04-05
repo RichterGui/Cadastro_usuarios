@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "James Bond",
+      "email": "jamesbond@zerosete.com"
+    },
+    {
+      "id": 2,
+      "name": "Mary Jane",
+      "email": "maryjane@smokeweed.com"
+    }
+  ]
+}
