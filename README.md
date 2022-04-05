@@ -12,7 +12,7 @@
 Sistema de Cadastro de usuários, que recebe input de nome e email, e guarda em um arquivo como objeto json, utilizando json server, o cadastro é dinâmico e pode ser manipulado, guardando informações e as apagando, tudo com uma interface criada em react.
 
 ## Screenshot
-![](/screenshot_3.jpg)
+![](/Screenshot_3)
 
 
 ### Built with
